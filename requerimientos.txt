@@ -1,0 +1,29 @@
+1. Clase libro
+
+        Atributos
+título
+autor
+isbn
+editorial
+año_publicacion
+disponible
+
+
+        Metodos
+__init__
+mostrar_info
+actualizar_disponibilidad
+
+2. Clase Usuario
+
+        Atributos
+id_usuario
+nombre
+email
+libros_prestados
+
+        Metodos
+__init__
+prestar_libro
+devolver_libro
+      
